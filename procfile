@@ -1,1 +1,1 @@
-web: gunicorn ucenbot.wsgi
+web: gunicorn ucenbot.wsgi --log-file -

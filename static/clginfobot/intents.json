@@ -2399,6 +2399,258 @@
             "context_set": [
                 ""
             ]
+        },
+        {
+            "tag": "who handles operating system",
+            "patterns": [
+                "who handles operating system"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "JEBA",
+            "patterns": [
+                "JEBA"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "JEBA",
+            "patterns": [
+                "JEBA"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "JEBA",
+            "patterns": [
+                "JEBA"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
+        },
+        {
+            "tag": "jeba",
+            "patterns": [
+                "jeba"
+            ],
+            "responses": [
+                "answer need to be provided"
+            ],
+            "context_set": [
+                ""
+            ]
         }
     ]
 }

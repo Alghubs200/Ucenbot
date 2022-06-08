@@ -9,7 +9,6 @@ urlpatterns = [
     path('services.html', views.services),
     path('about.html', views.about),
     path('contact.html', views.contact),
-    path('gallery.html', views.gallery),
     path('clginfobot.html', views.college),
     path('placementbot.html', views.placement),
     path('librarybot.html', views.library),

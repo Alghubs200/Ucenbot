@@ -36,22 +36,33 @@
                          <path d="M10 8a2 2 0 1 1-4 0V3a2 2 0 1 1 4 0v5zM8 0a3 3 0 0 0-3 3v5a3 3 0 0 0 6 0V3a3 3 0 0 0-3-3z"></path>
                        </svg></button>
                      </div>
+
                      <h3>{{query}}</h3>
-                       <h1>{{chatresponse}}</h1>
-                       <h3>
-                        <ul style="list-style-type:none;">
-                          {% for data in dataresponse.0%}
-                          <li>
-                                {%if data != "None"%}
-                                  {{ data|default:"" }}
-                                {%else%}
-                                  {{data}}
-                                {%endif%}
-                          </li>
-                          {%endfor%}
-                       </ul>
-                       </h3>
+
+                     {% comment %} dataresponse {% endcomment %}
+                     <h3>
+                      <ul style="list-style-type:none;">
+                        {% for data in dataresponse.0%}
+                        <li>
+                              {%if data != "None"%}
+                                {{ data|default:"" }}
+                              {%else%}
+                                {{data}}
+                              {%endif%}
+                        </li>
+                        {%endfor%}
+                     </ul>
+                     </h3>
+                     
+                     {% comment %} chatresponse {% endcomment %}
+                       {% if chatresponse == "PLEASE GIVE A VALID QUESTION"%}
+                            <h3 class="text-danger">{{chatresponse}}</h3>
+                       {% else %}
+                             <h1>{{chatresponse}}</h1>                            
+                       {% endif %}
+
                        <img class="animated-gif" src="{{imgresponse}}">
+                       
                            </center>
             </div>
 

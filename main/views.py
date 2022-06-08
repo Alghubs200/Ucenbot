@@ -26,11 +26,6 @@ def contact(request):
     return render(request, "contact.html")
 
 
-def gallery(request):
-    context = {}
-    return render(request, "gallery.html")
-
-
 def college(request):
     context = {}
     def query_data(inp):
@@ -98,6 +93,10 @@ def library(request):
         conn.close()
         # print(results)
         return results
+    
+    def img():
+        image = canteenbot.response.contextimg
+        return image
 
     def chat(msg):
         rresponse = librarybot.response(msg) 
@@ -110,6 +109,7 @@ def library(request):
         context['chatresponse'] = chat(msg)
         tag = librarybot.response.tagg
         context['dataresponse'] = query_data(tag)
+        context['imgresponse'] = img()
     return render(request, "librarybot.html",context)
 
 

@@ -42,7 +42,7 @@ def response(inp):
     results_index = numpy.argmax(results)
     tag = labels[results_index]
     response.tagg = tag
-    if results[results_index] > 0.7:
+    if results[results_index] > 0.5:
         for tg in data["intents"]:
             if tg['tag'] == tag:
                 responses = tg['responses']

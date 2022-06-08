@@ -16,7 +16,10 @@
                 "nice to meet you",
                 "hello there , how can i help"
             ],
-            "context_set": ["./static/context/images/hello-hi.gif","./static/context/images/hi-hello.gif"]
+            "context_set": [
+                "./static/context/images/hello-hi.gif",
+                "./static/context/images/hi-hello.gif"
+            ]
         },
         {
             "tag": "Tea/Cofee",
@@ -30,7 +33,9 @@
             "responses": [
                 "9 Rupees for Tea and Cofee"
             ],
-            "context_set": ["./static/context/images/tea.PNG"]
+            "context_set": [
+                "./static/context/images/tea.PNG"
+            ]
         },
         {
             "tag": "Vadai",
@@ -44,7 +49,9 @@
             "responses": [
                 "7 Rupee for vadai"
             ],
-            "context_set": ["./static/context/images/vadai.jpg"]
+            "context_set": [
+                "./static/context/images/vadai.jpg"
+            ]
         },
         {
             "tag": "Idly",
@@ -58,7 +65,9 @@
             "responses": [
                 "7 Rupee for Idly"
             ],
-            "context_set": ["./static/context/images/idli.jpg"]
+            "context_set": [
+                "./static/context/images/idli.jpg"
+            ]
         },
         {
             "tag": "Pongal",
@@ -72,7 +81,9 @@
             "responses": [
                 "20 Rupee for pongal"
             ],
-            "context_set": ["./static/context/images/pongal.jpg"]
+            "context_set": [
+                "./static/context/images/pongal.jpg"
+            ]
         },
         {
             "tag": "Sandwich",
@@ -86,7 +97,9 @@
             "responses": [
                 "20 Rupee for sandwich"
             ],
-            "context_set": ["./static/context/images/sandwich.jpg"]
+            "context_set": [
+                "./static/context/images/sandwich.jpg"
+            ]
         },
         {
             "tag": "Omlete",
@@ -99,7 +112,9 @@
             "responses": [
                 "10 Rupee for Omlete"
             ],
-            "context_set": ["./static/context/images/omlette.jpg"]
+            "context_set": [
+                "./static/context/images/omlette.jpg"
+            ]
         },
         {
             "tag": "Dosai",
@@ -113,7 +128,9 @@
             "responses": [
                 "10 Rupee Dosai"
             ],
-            "context_set": ["./static/context/images/dosai.PNG"]
+            "context_set": [
+                "./static/context/images/dosai.PNG"
+            ]
         },
         {
             "tag": "Bread Omlete",
@@ -126,7 +143,9 @@
             "responses": [
                 "20 Rupee for Bread omlete"
             ],
-            "context_set": ["./static/context/images/breadomlette.jpg"]
+            "context_set": [
+                "./static/context/images/breadomlette.jpg"
+            ]
         },
         {
             "tag": "Lunch",
@@ -142,7 +161,9 @@
             "responses": [
                 "40 Rupee for lunch"
             ],
-            "context_set": ["./static/context/images/lunch.jpg"]
+            "context_set": [
+                "./static/context/images/lunch.jpg"
+            ]
         },
         {
             "tag": "Veg Fried Rice",
@@ -156,7 +177,9 @@
             "responses": [
                 "30 Rupee"
             ],
-            "context_set": ["./static/context/images/vegfriedrice.jpg"]
+            "context_set": [
+                "./static/context/images/vegfriedrice.jpg"
+            ]
         },
         {
             "tag": "Egg Noodles",
@@ -171,12 +194,17 @@
             "responses": [
                 "40 Rupee for Egg Noodles"
             ],
-            "context_set": ["./static/context/images/eggnoodles.jpg"]
+            "context_set": [
+                "./static/context/images/eggnoodles.jpg"
+            ]
         },
         {
             "tag": "Poori",
             "patterns": [
-                "Poori","pori","bori","buri",
+                "Poori",
+                "pori",
+                "bori",
+                "buri",
                 "boori",
                 "Price of poori",
                 "what is the price of Poori",
@@ -188,7 +216,9 @@
             "responses": [
                 "7 Rupee for Poori"
             ],
-            "context_set": ["./static/context/images/poori.jpg"]
+            "context_set": [
+                "./static/context/images/poori.jpg"
+            ]
         },
         {
             "tag": "Variety rice",
@@ -203,7 +233,9 @@
             "responses": [
                 "29 Rupee for variety of rice"
             ],
-            "context_set": ["./static/context/images/varietyrice.png"]
+            "context_set": [
+                "./static/context/images/varietyrice.png"
+            ]
         },
         {
             "tag": "Chapathi",
@@ -218,7 +250,9 @@
             "responses": [
                 "10 Rupee for chapathi"
             ],
-            "context_set": ["./static/context/images/chapathi.jpg"]
+            "context_set": [
+                "./static/context/images/chapathi.jpg"
+            ]
         },
         {
             "tag": "Chicken Fry",
@@ -232,7 +266,9 @@
             "responses": [
                 "40 Rupee for chicken Fry"
             ],
-            "context_set": ["./static/context/images/chickenfry.jpg"]
+            "context_set": [
+                "./static/context/images/chickenfry.jpg"
+            ]
         },
         {
             "tag": "Chicken Chops",
@@ -246,7 +282,9 @@
             "responses": [
                 "40 Rupee for chicken chops"
             ],
-            "context_set": ["./static/context/images/chickenchops.jpg"]
+            "context_set": [
+                "./static/context/images/chickenchops.jpg"
+            ]
         },
         {
             "tag": "Veg Noodles",
@@ -260,7 +298,9 @@
             "responses": [
                 "30 Rupee for veg noodles"
             ],
-            "context_set": ["./static/context/images/vegnoodles.jpg"]
+            "context_set": [
+                "./static/context/images/vegnoodles.jpg"
+            ]
         },
         {
             "tag": "Egg Fried rice",
@@ -274,7 +314,9 @@
             "responses": [
                 "40 Rupee for Egg Fried rice"
             ],
-            "context_set": ["./static/context/images/eggfriedrice.jpg"]
+            "context_set": [
+                "./static/context/images/eggfriedrice.jpg"
+            ]
         },
         {
             "tag": "Daily lunch token time",
@@ -289,7 +331,9 @@
             "responses": [
                 "we give lunch token at 11:00 AM"
             ],
-            "context_set": ["./static/context/images/11am.png"]
+            "context_set": [
+                "./static/context/images/11am.png"
+            ]
         },
         {
             "tag": "goodbye",
@@ -306,7 +350,9 @@
                 "Talk to you later",
                 "Goodbye!"
             ],
-            "context_set": ["./static/context/images/goodbye.gif"]
+            "context_set": [
+                "./static/context/images/goodbye.gif"
+            ]
         },
         {
             "tag": "location",
@@ -321,7 +367,9 @@
                 "Back of the UCEN college",
                 "Behind College"
             ],
-            "context_set": [""]
+            "context_set": [
+                ""
+            ]
         },
         {
             "tag": "name",
@@ -330,14 +378,15 @@
                 "what should I call you",
                 "whats your name?",
                 "who are you"
-
             ],
             "responses": [
                 "You can call me canteen CHAT BOT.",
                 "I'm canteen BOT!",
                 "I'm canteen BOT."
             ],
-            "context_set": [""]
+            "context_set": [
+                ""
+            ]
         },
         {
             "tag": "canteen info",
@@ -353,7 +402,9 @@
                 "We sell Tea/Cofee, Vadai, Idly, Pongal, Sandwich, lunch, chapathi etcetra! ",
                 "we sell food for snack,lunch and breakfast!"
             ],
-            "context_set": [""]
+            "context_set": [
+                ""
+            ]
         },
         {
             "tag": "hours",
@@ -367,7 +418,9 @@
             "responses": [
                 "We are open 9am to 5:30 pm College hours!"
             ],
-            "context_set": [""]
+            "context_set": [
+                ""
+            ]
         },
         {
             "tag": "who is c s e hod",
@@ -377,12 +430,13 @@
                 "C S E H O D",
                 "H O D of C S E",
                 "tell me who is the h o d of c s e"
-
             ],
             "responses": [
                 "Mrs.Muthuselvi"
             ],
-            "context_set": [""]
+            "context_set": [
+                ""
+            ]
         },
         {
             "tag": "who is the dean of U C E N",
@@ -394,7 +448,9 @@
             "responses": [
                 "nagarajan"
             ],
-            "context_set": [""]
+            "context_set": [
+                ""
+            ]
         }
     ]
 }

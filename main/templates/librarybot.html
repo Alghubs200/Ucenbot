@@ -41,7 +41,6 @@
 </a>
 <a href="authorsearch.html"><button class="btn btn-warning">Search using author name</button></a>
  <h2>{{query}}<h2>
- <h1>{{chatresponse}}</h1>
 
 <h3>
  <ul style="list-style-type:none;">
@@ -56,6 +55,13 @@
    {%endfor%}
 </ul>
 </h3>
+   {% comment %} chatresponse {% endcomment %}
+     {% if chatresponse == "PLEASE GIVE A VALID QUESTION"%}
+          <h3 class="text-danger">{{chatresponse}}</h3>
+     {% else %}
+           <h1>{{chatresponse}}</h1>                            
+     {% endif %}
+     <img class="animated-gif" src="{{imgresponse}}">
      </center>
     </div>
                  
